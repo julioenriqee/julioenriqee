@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**julioenriqee/julioenriqee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi, I´m Julio</h1> 
+<p><em>Student of Systems Engineering at <a href="https://www.utn.edu.ar/es/">Universiadad Tecnológica Nacional
+<p>
+  <a href="https://instagram.com/julio.enriqee" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julio.enriqee" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/enriqee_13" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enrique" height="28px" width="28px" />
+  </a>
+  <a href="https://www.linkedin.com/in/julio-enrique-54234a223/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Julio Enrique" height="28px" width="28px" />
+  </a>
+</p>
+  
+```C
+#include <stdio.h>
+struct {
+  char name = "Julio";
+  char skills = {"HTML", "CSS", "JavaScript", "Python", "C", "SQL"};
+  char tools = {"React", "Node"};
+} Data;
+```
