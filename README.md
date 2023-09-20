@@ -16,7 +16,7 @@
 #include <stdio.h>
 struct {
   char name = "Julio";
-  char skills = {"HTML", "CSS", "JavaScript", "Python", "C", "SQL"};
+  char skills = {"HTML", "CSS", "JavaScript", "Python", "C", "SQL, php"};
   char tools = {"React", "Node"};
 } Data;
 
