@@ -17,7 +17,7 @@
 struct {
   char name = "Julio";
   char skills = {"HTML", "CSS", "JavaScript", "TypeScript", "Python", "C", "SQL", "php"};
-  char tools = {"React", "Node", "Angular"};
+  char tools = {"Angular", "Django", "React", "NodeJS"};
 } Data;
 
 Data [1]
