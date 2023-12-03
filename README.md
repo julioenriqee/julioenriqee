@@ -16,10 +16,10 @@
 #include <stdio.h>
 struct {
   char name = "Julio";
-  char skills = {"HTML", "CSS", "JavaScript", "Python", "C", "SQL, php"};
-  char tools = {"React", "Node"};
+  char skills = {"HTML", "CSS", "JavaScript", "TypeScript", "Python", "C", "SQL, php"};
+  char tools = {"React", "Node", "Angular"};
 } Data;
 
-Data [22]
+Data [1]
 
 ```
