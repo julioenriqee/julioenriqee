@@ -1,5 +1,5 @@
-<h1>Hi, I´m Julio</h1> 
-<p><em>Student of Systems Engineering at <a href="https://www.utn.edu.ar/es/">Universidad Tecnológica Nacional
+<h1>Hola soy Julio</h1> 
+<p><em>Estudiante de Ingenieria en Sistemas de Información <a href="https://www.utn.edu.ar/es/">Universidad Tecnológica Nacional
 <p>
   <a href="https://instagram.com/julio.enriqee" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julio.enriqee" height="28px" width="28px" />
