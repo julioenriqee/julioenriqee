@@ -20,6 +20,6 @@ struct {
   char tools = {"Reac", "Angular", "Vue.js", "Bootstrap", "Astro"};
 } Data;
 
-Data [1]
+Data [2]
 
 ```
