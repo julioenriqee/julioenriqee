@@ -21,8 +21,8 @@
 struct {
   char name = "Julio";
   char skills_F= {"HTML", "CSS", "JavaScript", "TypeScript"};
-  char skills_B= {"Python", "C#", "MySQL", "PHP"};
-  char tools = {"Reac", "Angular", "Vue.js", "Bootstrap", "Astro"};
+  char skills_B= {"Python", "C", "SQL"};
+  char tools = {"Reac", "Angular", "Astro"};
 } Data;
 
 Data [2]
