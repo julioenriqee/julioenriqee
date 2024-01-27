@@ -20,9 +20,9 @@
 #include <stdio.h>
 struct {
   char name = "Julio";
-  char skills_F= {"HTML", "CSS", "JavaScript", "TypeScript"};
+  char skills_F= {"HTML", "CSS", "JavaScript"};
   char skills_B= {"Python", "C", "SQL"};
-  char tools = {"Reac", "Angular", "Astro"};
+  char tools = {"Reac", "Astro", "Tailwind"};
 } Data;
 
 Data [2]
